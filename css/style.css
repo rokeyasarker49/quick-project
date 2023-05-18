@@ -133,6 +133,7 @@ section {
 .col {
     width: 33.33%;
     float: left;
+    height: 1000px;
     /* padding: 15px; */
 }
 
@@ -140,6 +141,7 @@ section {
     margin: 10px;
     padding: 20px;
     border-radius: 5px;
+    height: 500px;
     box-shadow: rgb(100 100 111 / 23%) 0px 7px 29px 0px;
 }
 
